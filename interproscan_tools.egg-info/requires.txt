@@ -1,0 +1,4 @@
+biopython >= 1.43
+
+[Excel]
+openpyxl >= 2

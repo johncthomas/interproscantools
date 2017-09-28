@@ -1,0 +1,6 @@
+setup.py
+interproscan_tools.egg-info/PKG-INFO
+interproscan_tools.egg-info/SOURCES.txt
+interproscan_tools.egg-info/dependency_links.txt
+interproscan_tools.egg-info/requires.txt
+interproscan_tools.egg-info/top_level.txt

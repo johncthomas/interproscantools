@@ -1,0 +1,11 @@
+README.txt
+setup.py
+interproscantools/IPRScan.py
+interproscantools/__init__.py
+interproscantools/iprscan_from_fasta.py
+interproscantools/tabulate_iprs_results.py
+interproscantools.egg-info/PKG-INFO
+interproscantools.egg-info/SOURCES.txt
+interproscantools.egg-info/dependency_links.txt
+interproscantools.egg-info/requires.txt
+interproscantools.egg-info/top_level.txt

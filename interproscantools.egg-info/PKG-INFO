@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: interproscantools
+Version: 1.0
+Summary: Run a batch of InterProScan searches from a FastA file, tabulate the results in an Excel document.
+Home-page: UNKNOWN
+Author: John C. Thomas
+Author-email: jaytee00@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: interpro interproscan interproscan_tools bioinformatics protein biopython
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 4 - beta
