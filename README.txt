@@ -6,11 +6,11 @@ https://www.ebi.ac.uk/interpro/about.html
 These tools allow you to automate the uploading of sequences from a FastA file,
 and produce an excel sheet summarising the results.
 
-To install, make sure you have Python 3 and PIP (I recomend Anaconda for Windows).
+To install, make sure you have Python 3 and PIP
 Then: pip install interproscantools-1.0.tar.gz
 
 iprscan_from_fasta.py is used to send a series of amino acid sequences from a FastA file
-to the InterProScan REST server. tabulate_iprs_results.py is used to produce a readable Excel
+to the InterProScan REST server. tabulate_iprs_results.py is used to produce a readable spreadsheet
 file of IPRScan results. The results will consist of Gene Ontology terms, domain predictions,
 and enzyme family predictions.
 
