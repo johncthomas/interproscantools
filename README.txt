@@ -1,4 +1,6 @@
-Tools for working with InterProScan.
+Turn a FASTA file of unknown sequences (like from a bacterial genome) into a table of
+predicted functional domains.
+
 IPRS sends sequences to a bunch of bioinformatic servers that predict the function
 of the protein in various ways and combines those results.
 https://www.ebi.ac.uk/interpro/about.html
